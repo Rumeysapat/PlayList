@@ -1,0 +1,24 @@
+# Build klasörleri
+bin/
+obj/
+
+# Kullanıcı/IDE ayarları
+.vs/
+.vscode/
+
+# Ortam dosyaları
+.env
+appsettings.Development.json
+
+# Statik dosyalar (isteğe bağlı)
+wwwroot/
+
+# macOS sistem dosyası
+.DS_Store
+
+# Log dosyaları
+*.log 
+
+
+
+
