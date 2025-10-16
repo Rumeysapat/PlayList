@@ -23,4 +23,5 @@ wwwroot/
 
 
 *.mp3
-assets/*.jpeg
+assets/
+
