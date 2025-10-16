@@ -17,8 +17,10 @@ wwwroot/
 .DS_Store
 
 # Log dosyaları
-*.log 
+*.log
 
 
 
 
+*.mp3
+assets/*.jpeg
