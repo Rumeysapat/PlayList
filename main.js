@@ -43,27 +43,27 @@ let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
 const songsList = [
   {
     name: 'Etegi Belinde',
-    link: 'assets/etegi_belinde.mp3',
+    link: '/assets/etegi_belinde.mp3',
     artist: 'Manuş Baba',
-    image: 'assets/manus.jpeg',
+    image: '/assets/manus.jpeg',
   },
   {
     name: 'Haberin Varmı',
-    link: 'assets/haberin_varmi.mp3',
+    link: '/assets/haberin_varmi.mp3',
     artist: 'Manuş Baba',
-    image: 'assets/manus.jpeg',
+    image: '/assets/manus.jpeg',
   },
   {
     name: 'Kimler Gecti',
-    link: 'assets/kimler_gecti.mp3',
+    link: '/assets/kimler_gecti.mp3',
     artist: 'Ajda Pekkan',
-    image: 'assets/ajda.png',
+    image: '/assets/ajda.png',
   },
   {
     name: 'Telli Turnam',
-    link: 'assets/telli_turnam.mp3',
+    link: '/assets/telli_turnam.mp3',
     artist: 'Musa Eroğlu',
-    image: 'assets/musa.png',
+    image: '/assets/musa.png',
   },
 ];
 
