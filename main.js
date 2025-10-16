@@ -57,13 +57,13 @@ const songsList = [
     name: 'Kimler Gecti',
     link: 'assets/Kimler_Geçti.mp3',
     artist: 'Ajda Pekkan',
-    image: 'assets/ajda.jpeg',
+    image: 'assets/ajda.png',
   },
   {
     name: 'Telli Turnam',
     link: 'assets/Musa Eroğlu - Telli Turnam.mp3',
     artist: 'Musa Eroğlu',
-    image: 'assets/musa.jpeg',
+    image: 'assets/musa.png',
   },
 ];
 
