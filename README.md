@@ -18,4 +18,5 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak yapılmış basit bir müzik ça
 - ⏱️ Şarkı süresi ve ilerleme çubuğu
 - 📂 LocalStorage ile favori şarkıların kaydedilmesi
 
----
+---<img width="400" height="335" alt="Ekran Resmi 2025-10-17 11 07 19" src="https://github.com/user-attachments/assets/2c3124eb-9c2d-4f20-9b1d-24ffff3fafdd" />
+
